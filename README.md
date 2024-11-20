@@ -1,7 +1,10 @@
 # 4k-Video-Upscaler-Colab-Real-ESRGAN
 
 Upscale your videos up to 4k on free google colab using Real-ESRGAN
+ 
+[![Try a demo on Replicate](https://replicate.com/lucataco/real-esrgan-video/badge)](https://replicate.com/lucataco/real-esrgan-video)
 
+ 
 ## Colab
 
 | Colab | Info
